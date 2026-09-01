@@ -62,7 +62,7 @@ Two product types are supported: **Board Games** and **Accessories**, each with 
   - Accessories require an accessory type (dice/miniature/playmat/accessory kit) and a compatibility string
   - Product IDs must be unique and exactly 4 digits
 
-    ![Adding a product](screenshots/add=product.png)
+  ![Adding a product](screenshots/add=product.png)
 
 ## Object-oriented concepts demonstrated
 
