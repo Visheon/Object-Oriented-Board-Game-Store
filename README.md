@@ -12,6 +12,17 @@ This is a **learning exercise**, not a secure or production-ready application. A
 
 None of this is an oversight to be fixed later — it reflects the scope of the assignment, which was focused on class design, inheritance, interfaces, and encapsulation rather than authentication or security. If you're looking at this repo as a portfolio piece, treat it as a demonstration of OOP structure, not a template for handling real user data or payments.
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#Features)
+-- [Features: Customer](#Customer)
+-- [Features: Admin](#Admin)
+- [Object Oriented Features](#Object-oriented-concepts-demonstrated)
+- [Project Structure](#Project-structure)
+- [Data Files](#Data-files)
+- [Building and running the program](#Building-and-running)
+- [Known Limitations](#Known-limitations)
+
 ## Overview
 
 The application is a single command-line program (`CLIs.Main`) that:
@@ -152,7 +163,7 @@ javac -d bin CLIs/*.java CourseworkFiles/*.java Payment/*.java Store/*.java User
 java -cp bin CLIs.Main
 ```
 
-## Quick walkthrough
+### Quick walkthrough
 1. Ensure you have java preinstalled on your device
 2. Run your console by right clicking the folder with the files and pressing `Open in terminal`
 3. In the terminal enter `Java -jar bgms.jar`
