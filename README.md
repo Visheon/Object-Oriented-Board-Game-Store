@@ -15,8 +15,8 @@ None of this is an oversight to be fixed later — it reflects the scope of the 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#Features)
--- [Features: Customer](#Customer)
--- [Features: Admin](#Admin)
+  - [Features: Customer](#Customer)
+  - [Features: Admin](#Admin)
 - [Object Oriented Features](#Object-oriented-concepts-demonstrated)
 - [Project Structure](#Project-structure)
 - [Data Files](#Data-files)
@@ -73,7 +73,7 @@ Two product types are supported: **Board Games** and **Accessories**, each with 
   - Accessories require an accessory type (dice/miniature/playmat/accessory kit) and a compatibility string
   - Product IDs must be unique and exactly 4 digits
 
-  ![Adding a product](screenshots/add=product.png)
+  ![Adding a product](screenshots/add-product.png)
 
 ## Object-oriented concepts demonstrated
 
