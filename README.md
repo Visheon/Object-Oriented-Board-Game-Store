@@ -15,8 +15,8 @@ None of this is an oversight to be fixed later — it reflects the scope of the 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#Features)
-  - [Features: Customer](#Customer)
-  - [Features: Admin](#Admin)
+  - [Customer](#Customer)
+  - [Admin](#Admin)
 - [Object Oriented Features](#Object-oriented-concepts-demonstrated)
 - [Project Structure](#Project-structure)
 - [Data Files](#Data-files)
